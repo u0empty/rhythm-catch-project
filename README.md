@@ -1,4 +1,4 @@
-# 🚕C108 Git Convention!!🚕git 
+# 🎮C108 Git Convention!!🎮
 
 ### 🚖 Git-Flow 지켜서 개발할것!
 
