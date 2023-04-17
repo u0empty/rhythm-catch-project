@@ -1,0 +1,20 @@
+sudo apt-get install vim
+sudo apt install git bc bison flex libssl-dev make
+cd /usr/src
+#커널소스 다운#
+sudo git clone --depth=1 https://github.com/raspberrypi/linux.git
+#툴체인 다운#
+sudo git clone https://github.com/raspberrypi/tools ~/tool
+#그래픽 지원을 위한 다운로드#
+sudo apt-get install make ncurses-dev build-essential
+#환경설정#
+cd linux
+KERNEL=kernel7
+sudo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- bcm2709_defconfig
+#커널소스 컴파일#
+sudo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- zimage modules dtbs -j4
+sudo make modules_install
+sudo cp arch/arm/boot/dts/overlays/*.dtb* /boot/overlays/
+sudo cp arch/arm/boot/dts/overlays/README /boot/overlays/
+sudo cp arch/arm/boot/zImage /boot/$KERNEL.img
+5.15.84-v7l+
