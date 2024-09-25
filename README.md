@@ -12,10 +12,10 @@ Period: 2023.04 ~ 2023.05
 
 <img src="./src/logo1.png" width="300" height="272"/>
 <img src="./src/logo2.png" width="300" height="272"/>
-<figure class="half">
-  <a href="link"><img src="./src/logo1.png"></a>
-  <a href="link"><img src="./src/logo2.png"></a>
-</figure>
+
+
+![logo1](./src/logo1.png) |![logo2](./src/logo2.png)
+--- | --- | 
 
 ### ✔️ Skill
 
