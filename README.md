@@ -10,9 +10,9 @@ Period: 2023.04 ~ 2023.05
 
 ### 🐱 로고
 
-![리듬캣치 로고1.png](%25EB%25A6%25AC%25EB%2593%25AC%25EC%25BA%25A3%25EC%25B9%2598_%25ED%2588%25AC%25EB%25AA%2585%25EB%25A1%259C%25EA%25B3%25A0.png)
+![logo1](../src/logo1.png)
 
-![리듬캣치 로고2.png](Untitled.png)
+![logo2](Untitled.png)
 
 ### ✔️ Skill
 
