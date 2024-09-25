@@ -63,13 +63,9 @@ VR과 리듬 게임의 맛을 잘 살릴 수 있도록 컨트롤러의 형태를
 
 리듬캣치를 더 신나게 플레이하도록 도와주는 전용 컨트롤러, 스마트 글러브를 소개합니다.
 
-### 스마트 글러브
-
-<img src="./src/glove.png" width="299" height="429"/>
-
 ### 스마트 글러브 & 회로도
 
-![glove.png](./src/glove.png.png) | ![diagram](./src/diagram.png)
+![glove.png](./src/glove.png) | ![diagram](./src/diagram.png)
 --- | --- | 
 
 ## 🦾 Details
