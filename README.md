@@ -11,6 +11,7 @@ Period: 2023.04 ~ 2023.05
 ### 🐱 로고
 
 ![logo1](./src/logo1.png)
+<img src="./src/logo1.png" width="300" height="272"/>
 
 ![logo2](Untitled.png)
 
