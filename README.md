@@ -10,11 +10,7 @@ Period: 2023.04 ~ 2023.05
 
 ### 🐱 로고
 
-<img src="./src/logo1.png" width="300" height="272"/>
-<img src="./src/logo2.png" width="300" height="272"/>
-
-
-![logo1](./src/logo1.png) |![logo2](./src/logo2.png)
+![logo1](./src/logo1.png) | ![logo2](./src/logo2.png)
 --- | --- | 
 
 ### ✔️ Skill
@@ -71,9 +67,10 @@ VR과 리듬 게임의 맛을 잘 살릴 수 있도록 컨트롤러의 형태를
 
 <img src="./src/glove.png" width="299" height="429"/>
 
-### 회로도
+### 스마트 글러브 & 회로도
 
-![diagram](./src/diagram.png)
+![glove.png](./src/glove.png.png) | ![diagram](./src/diagram.png)
+--- | --- | 
 
 ## 🦾 Details
 
