@@ -10,10 +10,8 @@ Period: 2023.04 ~ 2023.05
 
 ### 🐱 로고
 
-![logo1](./src/logo1.png)
 <img src="./src/logo1.png" width="300" height="272"/>
-
-![logo2](Untitled.png)
+<img src="./src/logo2.png" width="300" height="272"/>
 
 ### ✔️ Skill
 
@@ -35,31 +33,31 @@ VR과 리듬 게임의 맛을 잘 살릴 수 있도록 컨트롤러의 형태를
 
 ### MAIN
 
-![main.PNG](%25EB%25A1%259C%25EB%25B9%2584.png)
+![main](./src/main.png)
 
 ### MAIN - HOW TO
 
-![howto.png](Howto.png)
+![howto](./src/howto.png)
 
 ### BEACH MAP
 
-![beach.PNG](%25ED%2595%25B4%25EB%25B3%2580.png)
+![beach](./src/beach.png)
 
 ### FOREST MAP
 
-![forest.PNG](%25EC%2588%25B2.png)
+![forest](./src/forest.png)
 
 ### FRUIT MAP
 
-![fruit.PNG](%25EA%25B3%25BC%25EC%259D%25BC.png)
+![fruit](./src/fruit.png)
 
 ### BASEBALL MAP
 
-![baseball.PNG](%25EC%2595%25BC%25EA%25B5%25AC.png)
+![baseball](./src/baseball.png)
 
 ### REMIX MAP
 
-![remix.PNG](%25EB%25A6%25AC%25EB%25AF%25B9%25EC%258A%25A4.png)
+![remix](./src/remix.png)
 
 ## 🎛️ 게임 컨트롤러: 스마트 글러브
 
@@ -67,11 +65,11 @@ VR과 리듬 게임의 맛을 잘 살릴 수 있도록 컨트롤러의 형태를
 
 ### 스마트 글러브
 
-![glove](Untitled%201.png)
+<img src="./src/glove.png" width="299" height="429"/>
 
 ### 회로도
 
-![diagram](Untitled%202.png)
+![diagram](./src/diagram.png)
 
 ## 🦾 Details
 
@@ -121,11 +119,11 @@ VR과 리듬 게임의 맛을 잘 살릴 수 있도록 컨트롤러의 형태를
 
 - 보기 쉽고 사용이 간편하면서도 명확한 커밋 관리를 위해, 커밋 템플릿을 활용합니다.
 - **제목**은 명확하고 짧게, **내용**엔 커밋 배경, 변경 내용 등 보다 자세한 내용을 작성해주세요.
-- vi 에디터 환경에서 커밋 메세지를 작성한 뒤 `:wq!`로 마무리!
+- vi 에디터 환경에서 커밋 메세지를 작성한 뒤 `:wq!` 로 마무리!
 
-  ```
-  git config --global commit.template <.gitmessage.txt 경로>
-  git commit
+  ```bash
+  $ git config --global commit.template <.gitmessage.txt 경로>
+  $ git commit
   ```
 
 ## ⚙ Tools for Collaboration
